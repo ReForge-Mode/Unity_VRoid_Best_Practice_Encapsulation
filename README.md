@@ -1,0 +1,1 @@
+# Unity_VRoid_Best_Practice_Encapsulation
